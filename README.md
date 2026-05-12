@@ -47,6 +47,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoanghaoz&show_icons=true&theme=dracular&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=hoanghaoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoanghaoz&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=hoanghaoz&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
