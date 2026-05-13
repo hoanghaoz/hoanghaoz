@@ -50,5 +50,5 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=hoanghaoz&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=hoanghaoz&theme=radium&hide_border=true&v=1](https://github-readme-streak-stats.herokuapp.com/?user=hoanghaoz&theme=radium&hide_border=true&v=1)" ... />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tqha1011&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
